@@ -86,7 +86,6 @@ const ProjectCard = ({ project: p, delay }) => {
         </div>
         <div style={{ fontFamily: "'Clash Display',sans-serif", fontSize: 15, fontWeight: 700, color: "#f1f5f9", marginBottom: 4 }}>{p.name}</div>
         <div style={{ fontSize: 11, color: "rgba(226,232,240,0.35)", marginBottom: 4 }}>{p.client}</div>
-        <div style={{ fontSize: 11, color: "rgba(226,232,240,0.28)", marginBottom: 12 }}>📅 {p.period}</div>
         <p style={{ fontSize: 13, color: "rgba(226,232,240,0.5)", lineHeight: 1.65, marginBottom: 16, flex: 1 }}>{p.desc}</p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
           {p.tags.map(t => (
