@@ -1,5 +1,5 @@
 import ExpCard from "../ui/ExpCard";
-import Reveal from "../ui/reveal";
+import Reveal from "../ui/Reveal";
 
 
 const Experience = () => {
