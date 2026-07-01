@@ -7,7 +7,6 @@ const Projects = () => {
     {
       name: "PVS Pathway Information System",
       client: "WOAH (World Organisation for Animal Health)",
-      period: "2022 – Present",
       desc: "Built a scalable frontend using React.js with reusable components for better maintainability and consistency. Developed custom React components used throughout the application and customised UI and themes to match WOAH branding standards.",
       tags: ["React.js", "Redux", "REST API", "MUI"],
       link: "https://pvs.woah.org/",
@@ -17,7 +16,6 @@ const Projects = () => {
     {
       name: "Standards Online Navigation Tool (SONT)",
       client: "WOAH (World Organisation for Animal Health)",
-      period: "2022 – Present",
       desc: "Built reusable UI components using MUI for a multilingual standards search platform. Integrated CKEditor for rich text content editing and used Redux for managing application state and handling structured data flows across search and filtering functionality.",
       tags: ["React.js", "Redux", "MUI", "CKEditor"],
       link: "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/",
@@ -27,7 +25,6 @@ const Projects = () => {
     {
       name: "e-Services Portal",
       client: "DRAP (Drug Regulatory Authority of Pakistan)",
-      period: "2022 – Present",
       desc: "Developed responsive frontend modules using React.js and Redux, integrated RESTful APIs, and implemented automated PDF generation using EJS templates in Node.js to support regulatory workflows.",
       tags: ["React.js", "Redux", "Node.js", "EJS", "REST API"],
       link: "https://edrap.dra.gov.pk/",
@@ -37,7 +34,6 @@ const Projects = () => {
     {
       name: "Commuterslink",
       client: "SysReforms International",
-      period: "2022 – Present",
       desc: "Developed a responsive frontend interface for a commute management platform, ensuring cross-device compatibility and smooth user experience across web and mobile views.",
       tags: ["React.js", "Tailwind CSS", "MUI", "REST API", "Redux"],
       link: "https://www.commuterslink.com/",
