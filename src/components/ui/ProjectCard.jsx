@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Reveal from "./reveal";
+import Reveal from "./Reveal";
 
 const ProjectCard = ({ project: p, delay }) => {
   const [hov, setHov] = useState(false);
