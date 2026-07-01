@@ -1,5 +1,5 @@
 import ProjectCard from "../ui/ProjectCard";
-import Reveal from "../ui/reveal";
+import Reveal from "../ui/Reveal";
 
 const Projects = () => {
 

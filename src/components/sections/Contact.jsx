@@ -1,5 +1,5 @@
 import ContactItems from "../ui/ContactItems";
-import Reveal from "../ui/reveal";
+import Reveal from "../ui/Reveal";
 
 const Contact = () => {
   return (

@@ -1,4 +1,4 @@
-import Reveal from "../ui/reveal";
+import Reveal from "../ui/Reveal";
 import SkillChip from "../ui/SkillChip";
 
 const Skills = () => {
